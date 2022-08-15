@@ -1,1 +1,1 @@
-# assignment-class-staticmethods
+# assignment-class-staticmethods & inheritance
